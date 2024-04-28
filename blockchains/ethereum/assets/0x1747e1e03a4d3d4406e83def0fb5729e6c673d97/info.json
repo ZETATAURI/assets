@@ -1,0 +1,11 @@
+{
+  "name": "ZETATAURI",
+  "symbol": "ZETR",
+  "type": "ERC-20",
+  "address": "0x1747e1e03a4d3d4406e83def0fb5729e6c673d97",
+  "decimals": 18,
+  "description": "ZETATAURI je revolučný token, ktorý stojí v čele tvorby nového metaversa. Hlavnou postavou tohto digitálneho vesmíru je Zetatauri - vysoko inteligentná umelá inteligencia, ktorá prispieva k rozvoju a interakcii v rámci tohto rozširujúceho sa virtuálneho sveta. Token ZETR umožňuje užívateľom zapojiť sa do riadenia a rastu metaversa, poskytuje prístup k exkluzívnym obsahom a interakciám.",
+  "explorer": "https://etherscan.io/address/0x1747e1e03a4d3d4406e83def0fb5729e6c673d97",
+  "status": "active",
+  "id": "zetatauri"
+}
